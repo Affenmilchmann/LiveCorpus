@@ -23,7 +23,7 @@
         <Long>0</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>270.99997</Float>
+        <Float>210.99998</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -79,7 +79,7 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">-30,564</Object>
+        <Object class="java.awt.Point">1366,0</Object>
     </pref>
     <prefGroup key="IndividualPlayerMuteSoloSettings">
         <pref key="sein-orange.wav">
@@ -90,7 +90,7 @@
         </pref>
     </prefGroup>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>270.99997</Float>
+        <Float>210.99998</Float>
     </pref>
     <pref key="SelectionBeginTime">
         <Long>0</Long>
@@ -111,10 +111,10 @@
         <Float>0.7</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>234826</Long>
+        <Long>391804</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>237837</Long>
+        <Long>396808</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="SPCH@yg1996f">
