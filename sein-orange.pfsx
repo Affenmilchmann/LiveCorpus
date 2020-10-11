@@ -20,7 +20,7 @@
         <String>WORDS@yg1996f</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>0</Long>
+        <Long>384734</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>210.99998</Float>
@@ -93,7 +93,7 @@
         <Float>210.99998</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>0</Long>
+        <Long>382048</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -108,13 +108,13 @@
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="MediaControlRate">
-        <Float>0.7</Float>
+        <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>391804</Long>
+        <Long>387699</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>396808</Long>
+        <Long>395130</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="SPCH@yg1996f">
